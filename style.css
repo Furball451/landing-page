@@ -1,0 +1,31 @@
+header {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ .logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+}
+ li {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ li a  {
+display: flex;
+justify-content: space-between;
+align-items: center;
+color: #F9FAF8;
+text-decoration: none;
+}
